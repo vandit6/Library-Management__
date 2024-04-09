@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\VanditJain\\Desktop\\Library_Management_System\\Library_Management_System.Server\\..\\library_management_system.client",
+"MaxTimeoutInSeconds": "120"
+}
+}
